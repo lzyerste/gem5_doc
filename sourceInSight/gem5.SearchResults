@@ -1,0 +1,5 @@
+---- m5Main Matches (4 in 3 files) ----
+Init.cc (sim):m5Main(int argc, char **argv)
+Init.hh (sim):int m5Main(int argc, char **argv);
+Main.cc (sim):// calling m5Main.
+Main.cc (sim):        ret = m5Main(argc, argv);
