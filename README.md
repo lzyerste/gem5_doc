@@ -1,7 +1,7 @@
 gem5_doc
 ========
 
-To get a better view (svg images), go to [Entry](http://lzyerste.github.io/gem5_doc).
+To get a better view (svg images), go to [Entry](http://lzyerste.github.io/gem5_doc/gem5).
 
 It is a public repository used for analyzing gem5 source code.
 
