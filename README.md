@@ -12,3 +12,4 @@ Some useful tools during analyzing:
 * **sublime text 3**: to navigate code
 * **drawio**: to draw flowcharts
 * **typora**: to write markdown documents
+
